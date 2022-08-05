@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.brand-logo{
+    font-weight: 700;
+    font-family: 'Comfortaa', cursive;
+    font-size: 33px;
+}
+.footer{
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.footer a{
+    text-decoration: none;
+    text-align: center;
+    font-family: 'comfortaa';
+    font-size: 33px;
+}
